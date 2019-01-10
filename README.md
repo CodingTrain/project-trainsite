@@ -42,7 +42,10 @@ Just some ideas that might be fun to explore.
   Accessibility needs to be kept in mind at all times. Don't expect that everyone accesses the site the same way you do.
 
 ---
-
+## Link for the Frontend Repository
+   https://github.com/CodingTrain/project-trainsite-frontend
+## Link for the Backend Repository
+   https://github.com/CodingTrain/project-trainsite-api
 ## Code of Conduct
 
 Please refer to The Coding Train's [Code of Conduct](https://github.com/CodingTrain/Code-of-Conduct).
